@@ -75,6 +75,8 @@ int main()
 			out << matrixB[i] << " ";
 		out << "\n";
 		rtm(matrixA, matrixB, m, out);
+		in.close();
+		out.close();
 	}
 	else
 	{
