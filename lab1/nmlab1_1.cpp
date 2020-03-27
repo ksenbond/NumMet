@@ -142,8 +142,8 @@ int main()
     matrixL.assign(m, vector<double>(m));
     matrixP.assign(m, vector<double>(m));
     vector<double> matrixB(m);
-    ifstream input("C:\\Users\\ksenia\\Desktop\\inp1_1.txt");
-    ofstream output("C:\\Users\\ksenia\\Desktop\\outp1_1.txt");
+    ifstream input("inp1_1.txt");
+    ofstream output("outp1_1.txt");
     if (input.is_open())
     {
         for (int i = 0; i < m; i++)
