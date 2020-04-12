@@ -1,0 +1,6 @@
+Amount of iterations with eps = 0.001 is 19
+Eigen values of matrix:
+l1 = 4.83148
+l2 = -5.41574 + i * 5.83356
+l3 = -5.41574 - i * 5.83356
+
